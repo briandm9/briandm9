@@ -10,6 +10,7 @@ Technologies I'm working with:
 - 🟩 HTML
 - 🟩 CSS
 - 🟩 JavaScript
+- 🟩 React
 - 🟩 Node.js
 - 🟩 Express
 - 🟩 SQL
